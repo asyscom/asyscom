@@ -12,6 +12,9 @@ Hi! I'm Davide, a tech enthusiast with a passion for Bitcoin, Nostr, and open-so
 - **Substack:**  
   [Read my articles on Substack](https://davidebtc186.substack.com/)
 
+- **Email:**
+  davidebtc@tutamail.com
+
 ---
 
 ## 💸 Donations
