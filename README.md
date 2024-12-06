@@ -1,8 +1,8 @@
-# 🌍 Welcome to my GitHub!
 
-Hi! I'm Davide, a tech enthusiast with a passion for Bitcoin, Nostr, and open-source projects. Here you'll find my contributions and tools for the community.
+# Welcome! 👋
 
----
+**Linux System Administrator** and **Security Administrator** with a strong passion for **Bitcoin** and the **Lightning Network**.
+
 
 ## 🌐 Contacts and Resources
 
@@ -11,6 +11,9 @@ Hi! I'm Davide, a tech enthusiast with a passion for Bitcoin, Nostr, and open-so
 
 - **Substack:**  
   [Read my articles on Substack](https://davidebtc186.substack.com/)
+
+- **consultancy** on **Bitcoin**, **Lightning Network**, and services for **installation and configuration of BTC and LN nodes**.  
+📩 **Contact me via email** for more information!  
 
 - **Email:**
   davidebtc@tutamail.com
