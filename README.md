@@ -25,7 +25,7 @@
 If you find my projects useful, consider supporting my work with a donation:
 
 ### ⚡ Lightning Network
-Scan the QR code or use the address `tips@davidebtc.me`.
+Scan the QR code or use the address `davidebtc@davidebtc.me`.
 
 ![ln_static_qr](https://github.com/user-attachments/assets/88923314-c1c9-45fd-8dc8-45a5f40ad6f5)
 
