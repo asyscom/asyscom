@@ -15,8 +15,8 @@
 - **consultancy** on **Bitcoin**, **Lightning Network**, and services for **installation and configuration of BTC and LN nodes**.  
 📩 **Contact me via email** for more information!
 
-- **Site:**
-  https://site.davidebtc.me
+- **Web:**
+  [site.davidebtc.me](https://site.davidebtc.me)
   
 - **Email:**
   info@davidebtc.me
@@ -35,13 +35,15 @@ If you find my projects useful, consider supporting my work with a donation:
 ### ⚡ Lightning Network
 Scan the QR code or use the address `davidebtc@davidebtc.me`.
 
-![ln_static_qr](https://github.com/user-attachments/assets/88923314-c1c9-45fd-8dc8-45a5f40ad6f5)
+![qrcoe-ln-resize](https://github.com/user-attachments/assets/e5318af2-b93e-4cf6-a297-f85414a5c4e9)
+
 
 
 ### ⚡ Pay 1000 Sats with Lightning
 Scan the QR code below to pay an invoice of 1000 satoshis.
 
-![ln_invoice](https://github.com/user-attachments/assets/3f6f5fca-1ec6-46dc-8416-062261271e01)
+![qrcoe-invoice-resize](https://github.com/user-attachments/assets/639fae08-2b2b-455a-bf25-52756de8e0d6)
+
 
 
 ---
