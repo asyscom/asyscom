@@ -33,7 +33,7 @@
 If you find my projects useful, consider supporting my work with a donation:
 
 ### ⚡ Lightning Network
-Scan the QR code or use the address `davidebtc@davidebtc.me`.
+Scan the QR code or use the address `davidebtc@lnbits.davidebtc.me`.
 
 ![qrcoe-ln-resize](https://github.com/user-attachments/assets/e5318af2-b93e-4cf6-a297-f85414a5c4e9)
 
