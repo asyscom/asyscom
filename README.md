@@ -1,51 +1,62 @@
+# Welcome 👋
 
-# Welcome! 👋
+Linux **System Administrator** & **Security Administrator** focused on **Bitcoin** and the **Lightning Network**.  
+I design, deploy, and harden Bitcoin/LN infrastructure for individuals and teams.
 
-**Linux System Administrator** and **Security Administrator** with a strong passion for **Bitcoin** and the **Lightning Network**.
-
-
-## 🌐 Contacts and Resources
-
-- **Nostr:**  
-  `npub1uxzu9tgts7ejq7kzh9kkhra3lug0hujlj0h0f5z0kmdmjqulr8as6t6vmm`
-
-- **Substack:**  
-  [Read my articles on Substack](https://davidebtc186.substack.com/)
-
-- **consultancy** on **Bitcoin**, **Lightning Network**, and services for **installation and configuration of BTC and LN nodes**.  
-📩 **Contact me via email** for more information!
-
-- **Web:**
-  [site.davidebtc.me](https://site.davidebtc.me)
-  
-- **Email:**
-  info@davidebtc.me
-
-## Project
-
-[@BTCWatcherBot_bot
-](https://t.me/BTCWatcherBot_bot)
+[![Website](https://img.shields.io/badge/Website-site.davidebtc.me-informational?logo=google-chrome)](https://site.davidebtc.me)
+[![Email](https://img.shields.io/badge/Email-davidebtc@tutamail.com-8A2BE2?logo=protonmail)](mailto:davidebtc@tutamail.com)
+[![Substack](https://img.shields.io/badge/Substack-Read-orange?logo=substack)](https://davidebtc186.substack.com/)
+[![Nostr](https://img.shields.io/badge/Nostr-npub-blueviolet)](https://njump.me/npub1uxzu9tgts7ejq7kzh9kkhra3lug0hujlj0h0f5z0kmdmjqulr8as6t6vmm)
 
 ---
 
-## 💸 Donations
+## What I do
+- Install, **manage**, and **maintain Linux systems** (servers & workstations)
+- Install, configure, and maintain **Bitcoin** and **Lightning** nodes
+- Architecture & hardening for **self-hosted** services
+- Monitoring, backups, upgrades, and incident response
+- Consulting & training for small teams
 
-If you find my projects useful, consider supporting my work with a donation:
-
-### ⚡ Lightning Network
-Scan the QR code or use the address `davidebtc@lnbits.davidebtc.me`.
-
-![qrcoe-ln-resize](https://github.com/user-attachments/assets/e5318af2-b93e-4cf6-a297-f85414a5c4e9)
-
-
-
-### ⚡ Pay 1000 Sats with Lightning
-Scan the QR code below to pay an invoice of 1000 satoshis.
-
-![qrcoe-invoice-resize](https://github.com/user-attachments/assets/639fae08-2b2b-455a-bf25-52756de8e0d6)
-
-
+> Need help? **Email me** and tell me about your setup and goals.
 
 ---
 
-Thank you for your interest and support in my projects! 🚀
+## Selected projects
+- **nostr-zap-listener** — NIP-57 zap listener bot with weekly leaderboard (Python)  
+  👉 <https://github.com/asyscom/nostr-zap-listener>
+- **BTCWatcherBot_bot** — Telegram bot for Bitcoin watchers  
+  👉 <https://t.me/BTCWatcherBot_bot>
+
+> More repositories on my GitHub → <https://github.com/asyscom>
+
+---
+
+## Writing
+- **Substack:** <https://davidebtc186.substack.com/>
+
+---
+
+## Tech stack
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Admin-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Workflow-F05032?logo=git&logoColor=white)
+![Bitcoin Core](https://img.shields.io/badge/Bitcoin%20Core-Nodes-f7931a?logo=bitcoin&logoColor=white)
+![Lightning](https://img.shields.io/badge/Lightning-Network-7D3AED?logo=lightning&logoColor=white)
+![LNbits](https://img.shields.io/badge/LNbits-Integrations-000000)
+![Nostr](https://img.shields.io/badge/Nostr-Apps-8A2BE2)
+
+---
+
+## Contact
+- **Email:** <mailto:davidebtc@tutamail.com>
+- **Web:** <https://site.davidebtc.me>
+- **Nostr:** `npub1uxzu9tgts7ejq7kzh9kkhra3lug0hujlj0h0f5z0kmdmjqulr8as6t6vmm`
+
+---
+
+## Support my work
+If you find my projects useful, you can tip via **Lightning**:  
+`davidebtc@walletofsatoshi.com`
+
+Thanks for your support! 🚀
