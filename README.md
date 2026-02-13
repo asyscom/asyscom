@@ -49,14 +49,16 @@ I design, deploy, and harden Bitcoin/LN infrastructure for individuals and teams
 ---
 
 ## Contact
-- **Email:** <mailto:davidebtc@tutamail.com>
+- **Email:** <mailto:davidebtc@davidebtc.me>
 - **Web:** <https://site.davidebtc.me>
 - **Nostr:** `npub1uxzu9tgts7ejq7kzh9kkhra3lug0hujlj0h0f5z0kmdmjqulr8as6t6vmm`
+- **[Simplex](https://smp17.simplex.im/a#wSybGAOR98kvBMcYiaFN0QYzoaGpZ2MC-QbaUk_AJ_8)**
+
 
 ---
 
 ## Support my work
 If you find my projects useful, you can tip via **Lightning**:  
-`davidebtc@walletofsatoshi.com`
+`davidebtc@lnbits.davidebtc.me`
 
 Thanks for your support! 🚀
